@@ -1,0 +1,22 @@
+# Diretórios do ambiente virtual
+venv/
+.env
+
+# Arquivos de banco de dados SQLite
+*.db
+__pycache__/
+*.sqlite3
+
+# Logs e arquivos temporários
+*.log
+*.pyc
+*.pyo
+*.swp
+*.swo
+
+# Configurações do VSCode
+.vscode/
+
+# Arquivos do sistema operacional (Mac e Windows)
+.DS_Store
+Thumbs.db
